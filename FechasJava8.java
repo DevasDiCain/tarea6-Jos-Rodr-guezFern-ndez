@@ -8,16 +8,11 @@ package javatime;
 // Clase para tratar fechas (sólo día, mes y año)
 import java.time.DayOfWeek;
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 // Enumerado para los meses del año (Enero, ...)
 import java.time.Month;
 import java.time.MonthDay;
 import java.time.Period;
 import java.time.YearMonth;
-import java.time.format.DateTimeFormatter;
-import java.time.format.TextStyle;
-import java.time.temporal.ChronoUnit;
-import java.util.Locale;
 
 /**
  *
